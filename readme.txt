@@ -1,7 +1,7 @@
 Learning under this project
 1-	Different request methods (GET, POST, DELETE...)
 2-	Different response statuses you can send back to user
-3-	Implement exception handling and data validation
+3-	how to implement exception handling and data validation
 4-	HATEOAS
 
 Advanced Things:
