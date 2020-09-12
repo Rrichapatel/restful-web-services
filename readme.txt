@@ -8,7 +8,7 @@ Advanced Things:
 5-	Versioning
 6-	Documenting (Swagger)
 7-	filtering web services
-8-	Content egotiation
+8-	Content negotiation
 9-	Internationalization
 
 10-	Restful services using JPA
